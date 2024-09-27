@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand {
+    font-weight: 600;
+}
+.navbar-nav.menu-lists li a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
